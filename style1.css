@@ -1,0 +1,35 @@
+.hr {
+    margin: 20px;
+    margin-right: 20px;
+    border-top: 1px solid lightskyblue;
+}
+
+#h1 {
+    font-family: font;
+}
+
+.h2 {
+    color: #d1633c;
+    margin: 20px;
+    font-family: bold;
+}
+
+.p {
+    margin: 20px;
+    font-family: family;
+}
+
+@font-face {
+    font-family: bold;
+    src: url(Fonts/Workbench-Regular.ttf);
+}
+
+@font-face {
+    font-family: family;
+    src: url(Fonts/GreatVibes-Regular.ttf);
+}
+
+@font-face {
+    font-family: font;
+    src: url(Fonts/ProtestGuerrilla-Regular.ttf);
+}
